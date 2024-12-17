@@ -5,7 +5,7 @@ const app = express()
 
 
 app.get('/',(req,res)=>{
-    res.send('this is node chetan applucation')
+    res.send('this is node chetan patil applucation')
 })
 
 
